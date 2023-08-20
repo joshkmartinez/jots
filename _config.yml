@@ -1,8 +1,8 @@
+title: Jots
+
 theme: minima
 
 header_pages:
   - about.md
 
-minima:
-  social_links:
-    - { platform: github,  user_url: "https://github.com/joshkmartinez/" }
+github_username: joshkmartinez
