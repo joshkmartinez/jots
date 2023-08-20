@@ -2,13 +2,7 @@ Suppose we play a game in which I give you a die to roll and offer to pay you in
 
 How much would you pay me to play this game?
 
-<details>
-    <summary>Solution</summary>
-    Any amount under $4.9444
-</details>
-
-<details open>
-    <summary>Reasoning</summary>
+Any amount under $4.9444
 
 X ~ Game\
 E[X] = ?
@@ -25,6 +19,6 @@ Game w/ 3 rerolls: E[X_3] = (1/6)5 + (1/6)6 + (4/6)4.666 = 4.9444
 E[X] = 4.9444\
 Since the EV of the game is $4.9444, you should pay any amount <$4.9444 to play.
 
-</details>
+
 
 How does this generalize to any number of "do-overs"?
