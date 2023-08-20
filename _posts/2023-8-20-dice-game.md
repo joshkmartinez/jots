@@ -1,6 +1,6 @@
-Suppose we play a game in which I give you a die to roll and offer to pay you in dollars the number that you roll (if you roll a 3, I'll pay you $3). I also stipulate that if you're dissatisfied with the number that you roll on your first try, I'll let you roll the die again with the same offer. I will allow a maximum of 3 "do-overs", though you can elect to stop after any roll.
+> Suppose we play a game in which I give you a die to roll and offer to pay you in dollars the number that you roll (if you roll a 3, I'll pay you $3). I also stipulate that if you're dissatisfied with the number that you roll on your first try, I'll let you roll the die again with the same offer. I will allow a maximum of 3 "do-overs", though you can elect to stop after any roll.
 
-How much would you pay me to play this game?
+> How much would you pay me to play this game?
 
 Any amount under $4.9444
 
@@ -21,4 +21,4 @@ Since the EV of the game is $4.9444, you should pay any amount <$4.9444 to play.
 
 
 
-How does this generalize to any number of "do-overs"?
+> How does this generalize to any number of "do-overs"?
